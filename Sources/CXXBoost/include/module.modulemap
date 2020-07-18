@@ -1,0 +1,4 @@
+module CXXBoost {
+    header "boost.h"
+    export *
+}
